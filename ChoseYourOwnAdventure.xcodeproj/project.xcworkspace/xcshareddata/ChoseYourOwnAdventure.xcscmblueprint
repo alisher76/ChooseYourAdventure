@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A7064052746203AD5587B85E85058A567AAFAB98",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A7064052746203AD5587B85E85058A567AAFAB98" : 9223372036854775807,
+    "F50BEB0546EAFB683097EB86E293C3E793E1FF80" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3F9A5306-F9D1-4B79-84FC-949E02C41ABE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A7064052746203AD5587B85E85058A567AAFAB98" : "ChoseYourOwnAdventure\/",
+    "F50BEB0546EAFB683097EB86E293C3E793E1FF80" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ChoseYourOwnAdventure",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChoseYourOwnAdventure.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:alisher76\/ChooseYourAdventure.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7064052746203AD5587B85E85058A567AAFAB98"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:alisher76\/AppDevelopmentInSwiftApple.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F50BEB0546EAFB683097EB86E293C3E793E1FF80"
+    }
+  ]
+}

@@ -17,7 +17,7 @@ func  selecSceneMethod1() {
                                     "I need to stay lonely forever.",
                                     
                                     
-        ])
+                                    ])
     
     switch choice {
     case "Lets get ready for it.":
@@ -40,10 +40,10 @@ func finalSceneDeath() {
 
 func selecSceneMethod2() {
     let choice = getChoiceFromUser(prompt: "Well then, we go to gym first do a quick workout for 5 minutes and sit on a bench browsing Instagram for 45 minutes and total 50 minutes workout is enough! Later we go that party, shall we drive or take Uber, we have $\(money) in the pocket?\n",
-                                   choices: [
-                                    "Drive so we don't drink alcohol.",
-                                    "Call Uber.",
-                                    ])
+        choices: [
+            "Drive so we don't drink alcohol.",
+            "Call Uber.",
+            ])
     
     switch choice {
     case "Drive so we don't drink alcohol.":
@@ -77,9 +77,9 @@ func selecSceneMethod3() {
 
 func selecSceneMethod4() {
     let choice = getChoiceFromUser(prompt: "Security: Sorry man, you cant go in there without a ticket. /nMe: But please I did not know that I needed a ticket no one tolde me that...... \nGirl: Hey \(givenName) how are you this is me....\nME: Thats here. Love of my life.....\n Girl: you want to join us? we have extra ticket? /n Me: What do we say?\n",
-                                   choices: [
-                                    "No Its OK, I got this myself, I will just go home!",
-                                    "Yeah that would be great thanks!"
+        choices: [
+            "No Its OK, I got this myself, I will just go home!",
+            "Yeah that would be great thanks!"
         ])
     
     switch choice {
@@ -95,9 +95,9 @@ func selecSceneMethod4() {
 
 func selecSceneMethod5() {
     let choice = getChoiceFromUser(prompt: "We have a great time, party is awesome, and damn she is gorgeous, I think she likes us dude, I think this is going great. Shall we try to kiss her?\n",
-        choices: [
-            "No never never noooooo, Hell no!",
-            "Yeah that would be great!"
+                                   choices: [
+                                    "No never never noooooo, Hell no!",
+                                    "Yeah that would be great!"
         ])
     switch choice {
     case "No never never noooooo, Hell no!":
@@ -109,7 +109,7 @@ func selecSceneMethod5() {
     default:
         print("Shouldn't reach this point.")
     }
-
+    
 }
 
 func selecSceneMethod6() {
@@ -173,8 +173,8 @@ func selecSceneMethod9() {
                                    choices: [
                                     "Yes!",
                                     "No",
-                            
-        ])
+                                    
+                                    ])
     switch choice {
     case "Yes!":
         print("Lets Start Over")
